@@ -1,7 +1,7 @@
 # Regulamin Użytkowania Aplikacji JavaMaster
 
-**Ostatnia aktualizacja:** 9 grudnia 2025  
-**Wersja:** 1.0
+**Ostatnia aktualizacja:** 12 grudnia 2025  
+**Wersja:** 1.0.0
 
 ## 1. Postanowienia Ogólne
 
@@ -204,16 +204,17 @@ Aplikacja jest przeznaczona dla użytkowników w wieku **13 lat i starszych**. U
 W sprawach związanych z Regulaminem lub Aplikacją, skontaktuj się z nami:
 
 **Email:** radek@visiblify.com 
-**Aplikacja:** JavaMaster v0.7.2
+**Aplikacja:** JavaMaster v1.0.0
 
 ## 15. Informacje o Aplikacji
 
 - **Nazwa:** JavaMaster
-- **Wersja:** 0.7.2
+- **Wersja:** 1.0.0
 - **Platforma:** Android
 - **Typ:** Aplikacja edukacyjna
 
 ---
 
 **Dziękujemy za korzystanie z JavaMaster i życzymy owocnej nauki programowania!** 🚀
+
 
