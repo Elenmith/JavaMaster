@@ -1,6 +1,6 @@
 # Polityka Prywatności
 
-**Ostatnia aktualizacja:** 9 grudnia 2025  
+**Ostatnia aktualizacja:** 12 grudnia 2025  
 **Wersja:** 1.0.0
 
 ## 1. Wprowadzenie
@@ -158,5 +158,6 @@ Niniejsza Polityka Prywatności podlega prawu polskiemu. Wszelkie spory będą r
 ---
 
 **Dziękujemy za zaufanie i korzystanie z JavaMaster!** 🚀
+
 
 
