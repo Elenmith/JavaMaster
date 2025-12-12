@@ -1,7 +1,7 @@
 # Polityka Prywatności
 
 **Ostatnia aktualizacja:** 9 grudnia 2025  
-**Wersja:** 1.0
+**Wersja:** 1.0.0
 
 ## 1. Wprowadzenie
 
@@ -13,7 +13,7 @@ Aplikacja JavaMaster jest platformą edukacyjną służącą do nauki programowa
 
 **JavaMaster**  
 Email kontaktowy: radek@visiblify.com  
-Wersja aplikacji: 0.7.2
+Wersja aplikacji: 1.0.0
 
 ## 3. Jakie Dane Zbieramy
 
@@ -149,7 +149,7 @@ Zalecamy regularne przeglądanie tej Polityki Prywatności, aby być na bieżąc
 Jeśli masz pytania dotyczące niniejszej Polityki Prywatności lub chcesz skorzystać z swoich praw, skontaktuj się z nami:
 
 **Email:** radek@visiblify.com 
-**Aplikacja:** JavaMaster v0.7.2
+**Aplikacja:** JavaMaster v1.0.0
 
 ## 15. Prawo Właściwe
 
@@ -158,4 +158,5 @@ Niniejsza Polityka Prywatności podlega prawu polskiemu. Wszelkie spory będą r
 ---
 
 **Dziękujemy za zaufanie i korzystanie z JavaMaster!** 🚀
+
 
